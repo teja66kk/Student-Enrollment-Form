@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS student_table (
+    roll_no INT PRIMARY KEY,
+    full_name VARCHAR(255) NOT NULL,
+    class VARCHAR(50) NOT NULL,
+    birth_date DATE NOT NULL,
+    address VARCHAR(255) NOT NULL,
+    enrollment_date DATE NOT NULL
+);
