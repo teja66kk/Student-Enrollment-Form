@@ -20,7 +20,7 @@ JsonPowerDB is a high-performance, creative, and disruptive multi-mode DBMS. It 
 - Multi-Mode Database: Works in schema-free mode, key-value mode, and time series mode simultaneously.
 
 ## Release History
-- Version 1.0.0 (YYYY-MM-DD): Initial release of the Student Enrollment Form project.
+- Version 1.0.0 (2024-02-02): Initial release of the Student Enrollment Form project.
 
 ## Sections
 1. **Title of the Project:** Micro Project Work: Student Enrollment Form
@@ -48,4 +48,10 @@ In Development
 ## Sources
 - JsonPowerDB Documentation
 - MySQL Documentation (for database setup)
+
+## Screenshots
+
+<img width="916" alt="Micro_project_1" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/f51fb622-2cd5-4111-860f-cfb4c891571c">
+
+<img width="741" alt="Micro_project_2" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/7b8b8043-bbff-454b-b88a-2885a2ef5cff">
 
