@@ -19,7 +19,7 @@ Project Status
 Sources
 
 #Illustrations
-![Screenshot 1]("C:\Users\tejak\OneDrive\Pictures\Micro_project_1.png")
+![Screenshot 1](images/Micro_project_1.png)
 
 Scope of Functionalities
 The Student Enrollment Form project includes the following functionalities:
