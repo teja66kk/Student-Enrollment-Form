@@ -43,11 +43,11 @@ JsonPowerDB is a high-performance, creative, and disruptive multi-mode DBMS. It 
 - **Scenario 2:** Existing Roll No is entered, enabling [Update] and [Reset].
 
 ## Project Status
-In Development
+Completed
 
-## Sources
-- JsonPowerDB Documentation
-- MySQL Documentation (for database setup)
+## Sources: Introduction to JsonPowerDB - V2.0
+# https://careers.login2explore.com/course/view.php?id=14
+
 
 ## Screenshots
 
