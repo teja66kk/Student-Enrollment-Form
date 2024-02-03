@@ -53,5 +53,9 @@ Completed
 
 <img width="916" alt="Micro_project_1" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/f51fb622-2cd5-4111-860f-cfb4c891571c">
 
-<img width="741" alt="Micro_project_2" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/7b8b8043-bbff-454b-b88a-2885a2ef5cff">
+<img width="556" alt="Screenshot 2024-02-04 005741" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/0f38aa32-e6de-4ffd-a05d-0ba0c7e01a8d">
+
+<img width="566" alt="Screenshot 2024-02-04 005701" src="https://github.com/teja66kk/Student-Enrollment-Form/assets/139002364/74adaa05-5114-4cab-a5c5-072b2ac2942f">
+
+
 
